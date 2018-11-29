@@ -5,8 +5,8 @@ namespace BorwellChallenge
 {
     public partial class Form1 : Form
     {
-        private decimal totalWalls;
-        private decimal totalDoors;
+        private double totalWalls;
+        private double totalDoors;
         private Doors[] AllDoors = new Doors[10];
         private Doors[] AllWalls = new Doors[10];
         private int NumDoors;
@@ -56,8 +56,8 @@ namespace BorwellChallenge
         // following section is for the calculation and showing of the doors and windows details.
         private void btnAddDoor_Click(object sender, EventArgs e)
         {
-            decimal newWidth = Convert.ToDecimal(nudWidth.Value);
-            decimal newHeight = Convert.ToDecimal(nudHeight.Value);
+            double newWidth = Convert.ToDouble(nudWidth.Value);
+            double newHeight = Convert.ToDouble(nudHeight.Value);
             int newQuantity = Convert.ToInt32(nudQuantity.Value);
 
             NumDoors++;
@@ -69,8 +69,8 @@ namespace BorwellChallenge
         // following section is for the calculation and showing of the walls details.
         private void btnAddWall_Click(object sender, EventArgs e)
         {
-            decimal newWidth = Convert.ToDecimal(nudWidth.Value);
-            decimal newHeight = Convert.ToDecimal(nudHeight.Value);
+            double newWidth = Convert.ToDouble(nudWidth.Value);
+            double newHeight = Convert.ToDouble(nudHeight.Value);
             int newQuantity = Convert.ToInt32(nudQuantity.Value);
 
             NumWalls++;

@@ -52,3 +52,15 @@ F:\BorwellChallenge\BorwellChallenge\bin\Debug\BorwellChallenge.pdb
 F:\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.exe
 F:\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.pdb
 F:\BorwellChallenge\BorwellChallenge\obj\Debug\BorwellChallenge.csprojAssemblyReference.cache
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\bin\Debug\BorwellChallenge.exe.config
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\bin\Debug\BorwellChallenge.exe
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\bin\Debug\BorwellChallenge.pdb
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\obj\Debug\BorwellChallenge.csprojAssemblyReference.cache
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\obj\Debug\BorwellChallenge.AddDoors.resources
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\obj\Debug\BorwellChallenge.AddWindows.resources
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\obj\Debug\BorwellChallenge.Form1.resources
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\obj\Debug\BorwellChallenge.Properties.Resources.resources
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\obj\Debug\BorwellChallenge.csproj.GenerateResource.cache
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\obj\Debug\BorwellChallenge.csproj.CoreCompileInputs.cache
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\obj\Debug\BorwellChallenge.exe
+D:\BenMa\Downloads\BorwellChallenge-master\BorwellChallenge-master\BorwellChallenge\obj\Debug\BorwellChallenge.pdb

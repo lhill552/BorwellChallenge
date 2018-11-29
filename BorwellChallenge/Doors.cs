@@ -9,15 +9,15 @@ namespace BorwellChallenge
 {
     class Doors
     {
-        private decimal height;
-        private decimal width;
+        private double height;
+        private double width;
         private int quantity;
-        private decimal area;
+        private double area;
    
 
         //static decimal height1;
 
-        public Doors(decimal newHeight, decimal newWidth, int newQuantity)
+        public Doors(double newHeight, double newWidth, int newQuantity)
         {
             height = newHeight;
             width = newWidth;
@@ -26,17 +26,17 @@ namespace BorwellChallenge
 
         }
 
-        public decimal GetArea()
+        public double GetArea()
         {
             return area;
         }
 
-        public decimal GetHeight()
+        public double GetHeight()
         {
                 return height;
         }
 
-        public decimal GetWidth() 
+        public double GetWidth() 
         {
             return width;
         }
