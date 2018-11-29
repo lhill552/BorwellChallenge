@@ -1,0 +1,17 @@
+F:\BorwellChallenge\BorwellTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\BorwellChallenge\BorwellTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\BorwellChallenge\BorwellTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\BorwellChallenge\BorwellTest\bin\Debug\BorwellTest.dll
+F:\BorwellChallenge\BorwellTest\bin\Debug\BorwellTest.pdb
+F:\BorwellChallenge\BorwellTest\bin\Debug\BorwellChallenge.exe
+F:\BorwellChallenge\BorwellTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\BorwellChallenge\BorwellTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\BorwellChallenge\BorwellTest\bin\Debug\BorwellChallenge.pdb
+F:\BorwellChallenge\BorwellTest\bin\Debug\BorwellChallenge.exe.config
+F:\BorwellChallenge\BorwellTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\BorwellChallenge\BorwellTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\BorwellChallenge\BorwellTest\obj\Debug\BorwellTest.csprojAssemblyReference.cache
+F:\BorwellChallenge\BorwellTest\obj\Debug\BorwellTest.csproj.CoreCompileInputs.cache
+F:\BorwellChallenge\BorwellTest\obj\Debug\BorwellTest.csproj.CopyComplete
+F:\BorwellChallenge\BorwellTest\obj\Debug\BorwellTest.dll
+F:\BorwellChallenge\BorwellTest\obj\Debug\BorwellTest.pdb
